@@ -1,0 +1,12 @@
+flask
+flask-cors
+flask-sqlalchemy
+bcrypt
+pyjwt
+scikit-learn
+pandas
+numpy
+qrcode
+fpdf
+werkzeug
+reportlab
